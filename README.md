@@ -1,0 +1,1 @@
+# Adaptive-Image-Downscaling-Public-
